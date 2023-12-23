@@ -1,0 +1,81 @@
+
+/* view main*/
+.custom-container-top {
+    background-color: #347787;
+    display: flex;
+    justify-content: center;
+    
+
+    /* width = largura*/
+}
+.custom-container-top h1 {
+    padding-right: 75px;
+    color: #24DBEC;
+    text-decoration: none;
+
+}
+.custom-container-top h2 {
+    color: #24DBEC;
+    text-decoration: none;
+
+}
+.custom-container-top a {
+    margin-right: 35px; 
+    margin-left: 35px; 
+    align-self: center;
+    color: #24DBEC;
+    text-decoration: none;
+    
+}
+.custom-container-top a:hover {
+    text-decoration: underline #24DBEC; /* Adicionar sublinhado com a cor do texto no hover */
+}
+
+.msg {
+    background-color: #D4EDDA;
+    color: #155724;
+    border: 1PX solid #C3E6CB;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 10px;
+}
+
+/*View Welcome*/
+.infoInicio {
+    margin-top: 15px;
+}
+.infoInicio h2 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.table thead td  {
+    background-color: #c8f6d277;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+.table td {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+/*View Cadastro*/
+.container {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*View Edit*/
+
+.edit{
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    justify-self: center;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
